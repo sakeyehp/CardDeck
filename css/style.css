@@ -8,7 +8,7 @@
 }
 .wrapper {
     height: 100%;
-    display: flex;
+    display: flex;v
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
